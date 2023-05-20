@@ -1,0 +1,7 @@
+target/
+test/
+build/
+nbproject/
+nbactions.xml
+*.mf
+*.xml
